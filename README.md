@@ -3,7 +3,7 @@
 Coursework for ENGL 3500: Literary Games taught by Professors Jason Bennett (jcb2h) and Brad Pasanek (bmp7e) at the University of Virginia.  
 
 
-Bacteria s Survival!
+Bacteria Survival!
 
 You control little bacteria that subdivide over and over until you reach the end! Meanwhile the body you inhabit is trying to get rid of you. You move a bunch of bacteria in an RTS-style control format. You start off with 10 bacteria, and every time they subdivide into two more, each one changes ever so slightly. They may grow or shrink in size and speed, or gain other interesting properties! Survive long enough and multiply your bacteria! Just don’t mind the coughing sounds in the background… This explores the idea of forced choice as a player and the juxtaposition of what is a fun little “mario party”-esque minigame, and the actual horrors of what you as the player are doing.  
 
